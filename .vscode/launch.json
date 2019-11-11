@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lesson1",
+            "request": "launch",
+            "mainClass": "HomeWork.Lesson1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HomeWork1",
+            "request": "launch",
+            "mainClass": "Lesson1.HomeWork1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HomeWork1",
+            "request": "launch",
+            "mainClass": "Lesson1.HomeWork1",
+            "projectName": "VideoCourse_89326b43"
+        }
+    ]
+}
