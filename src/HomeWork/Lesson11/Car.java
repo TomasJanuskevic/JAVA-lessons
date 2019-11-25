@@ -30,8 +30,10 @@ class CarTest {
         CarTest ct = new CarTest();
         Car car1 = new Car("red", "V6", 2);
         Car car2 = new Car("black", "V8", 4);
+       
         ct.changeDoorNumber(car1, 5);
         ct.replaceColor(car1, car2);
+
         System.out.println("car1:");
         System.out.println("color: " + car1.color);
         System.out.println("engine: " + car1.engine);
