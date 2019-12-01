@@ -20,8 +20,8 @@ public class Arrays {
 
     public static void main(String[] args) {
         String[] Array = abc(new String[]{"a", "b", "c"}, new String[]{"d", "e"}, new String[]{"f"});
-for(String s: Array){
-    System.out.print(s + " ");
-    }
+        for (String s : Array) {
+            System.out.print(s + " ");
+        }
     }
 }
