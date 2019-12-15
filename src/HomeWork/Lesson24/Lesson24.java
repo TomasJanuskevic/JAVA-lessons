@@ -8,15 +8,15 @@ public class Lesson24 {
         fish.eat();
         fish.sleep();
         fish.swim();
-        
+
         Speakable pingvin = new Pingvin("Monk");
         pingvin.speak();
-        
+
         Animal Lion1 = new Lion("Leva");
         System.out.println(Lion1.name);
         Lion1.eat();
         Lion1.sleep();
-        
+
     }
 
 }
