@@ -1,4 +1,4 @@
- /
+ 
 package HomeWork.Lesson23;
 
 
@@ -18,8 +18,8 @@ public class Test3 {
     }
 
     public static void main(String[] args) {
-        Test3 x = new Y(18);
-        System.out.println(x.abc());
+       // Test3 x = new Y(18);
+       // System.out.println(x.abc());
     }
 
     class Y extends Test3 {
